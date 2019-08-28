@@ -1,3 +1,6 @@
+# Route Finder
+
+Challenge create alghoritm and visual elements to find the shortest route in a given matrix.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +69,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+### Reference
+
+<https://www.freecodecamp.org/news/create-gameoflife-with-react-in-one-hour-8e686a410174/>

@@ -1,0 +1,30 @@
+.grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-auto-rows: 50px;
+    grid-column-gap: 10px;
+    grid-row-gap: 10px;
+    width: 50%;
+    margin: 20px auto;
+}
+
+.map-board {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    width: 50%;
+    margin: 20px auto;
+}
+
+.map-row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+
+.map-cell {
+    display: inline-flex;
+    margin: 5px;
+    min-height: 50px;
+    min-width: 50px;
+}

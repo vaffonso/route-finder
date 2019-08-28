@@ -1,0 +1,27 @@
+.cell {
+    display: flex;
+    flex-grow: 1;
+    justify-content: center;
+    align-items: center;
+    border-width:2px;
+    border-style:solid;
+    border-color:#8b439f;
+    border-radius:10px;
+    -moz-border-radius:10px;
+    -webkit-border-radius:10px;
+    -webkit-box-shadow: 5px 10px 10px 0px rgba(138,138,138,1);
+    -moz-box-shadow: 5px 10px 10px 0px rgba(138,138,138,1);
+    box-shadow: 5px 10px 10px 0px rgba(138,138,138,1);
+}
+
+.destiny {
+    background-color: tomato;
+}
+
+.road {
+    background-color: aliceblue;
+}
+
+.block {
+    background-color: darkgrey;
+}
